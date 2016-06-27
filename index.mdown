@@ -2,6 +2,8 @@
 
 * Stream API
 	* [001](/StramAPI/001/StreamAPI_001.html)
+	* [002](/StramAPI/002/StreamAPI_002.html)
+	* [003](/StramAPI/003/StreamAPI_003.html)
 
 * 正規表現
 	* [001](/RegularExpression/001/RegularExpression_001.html)
