@@ -13,4 +13,4 @@
 
 * AWS
 	* [001](/StartAWS/001/StartAWS_001.html)
-	* [002](/StartAWS/001/StartAWS_001.html)
+	* [002](/StartAWS/002/StartAWS_002.html)
