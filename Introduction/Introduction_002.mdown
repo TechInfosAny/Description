@@ -1,0 +1,11 @@
+# GitとTortoiseGitの設定
+
+### msysgitのインストール
+[git-for-windows](https://git-for-windows.github.io/)にアクセスし、  
+Windows用のGitをダウンロードしインストールする
+
+### TortoiseGitのインストール
+[TortoiseGit](https://tortoisegit.org/)にアクセスし、  
+TortoiseGitをインストールする
+
+※[参考](http://moondoldo.com/DoldoWorkz/?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%86(msysgit%E3%83%BBTortoiseGit)#ac04c0d9)
